@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot%20Get%20Advice.png)
+![](./Screenshot%20Advice%20Component.png);
 
 ### Links
 
