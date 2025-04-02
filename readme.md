@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Jojo25011990/advice-generation-app)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://jojo25011990.github.io/advice-generation-app/)
 
 ## My process
 
@@ -47,3 +47,5 @@ Users should be able to:
 - Tiktok - [web.anim.and.effects](https://www.tiktok.com/@web.anim.and.effects)
 - Youtube - [web.animations.and.effects](https://www.youtube.com/@web.animations.and.effects)
 - Linkedin - [Jozef Kudrna](https://www.linkedin.com/in/jozef-kudrna-28b580295)
+
+# advice-generation-app
