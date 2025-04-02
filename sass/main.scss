@@ -28,12 +28,12 @@ body {
 
   text-align: center;
 
-  @include dimension-settings(100%, 33.2rem, null, 54rem);
+  @include dimension-settings(100%, null, 33.2rem, 54rem);
 
   @media (max-width: 500px) {
     padding: 5.5rem 2.8rem 4.8rem;
 
-    @include dimension-settings(100%, 31.5rem, null, 54rem);
+    @include dimension-settings(100%, null, 31.5rem, 54rem);
   }
 
   // *** Title ***
@@ -42,10 +42,12 @@ body {
 
     margin-bottom: 2.4rem;
 
-    @include font-settings(1.3rem, 900, auto, 0.409rem);
+    text-transform: uppercase;
+
+    @include font-settings(1.3rem, 900, null, 0.409rem);
 
     @media (max-width: 500px) {
-      @include font-settings(1.1rem, 900, auto, 0.346rem);
+      @include font-settings(1.1rem, 900, null, 0.346rem);
     }
   }
   // *** End of Title ***
@@ -54,10 +56,10 @@ body {
   &__text {
     margin-bottom: 4rem;
 
-    @include font-settings(2.8rem, 900, auto, -0.03rem);
+    @include font-settings(2.8rem, 900, 130%, -0.03rem);
 
     @media (max-width: 500px) {
-      @include font-settings(2.4rem, 900, auto, -0.026rem);
+      @include font-settings(2.4rem, 900, 130%, -0.026rem);
     }
   }
   // *** End of Text ***
